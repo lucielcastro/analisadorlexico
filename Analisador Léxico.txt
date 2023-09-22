@@ -1,0 +1,8 @@
+IDENTIFICADORES
+	(a..z)(A..Z|0..9|a..z)*
+NUMEROS
+	;
+Op_REL
+	> | >= | < | <= | == | !=
+op_ATR
+	=
